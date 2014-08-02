@@ -34,7 +34,7 @@ Neither file is required.
 Any number of different configuration profiles may be used at the same time, 
 or even none at all. To specify the set of configuration profiles that should be
 used, list their names--one per line with no other punctuation--in the 
-"activeProfiles" text file, which resides in the the %EssenceSharpPath%\Config 
+"activeProfiles" text file, which resides in the %EssenceSharpPath%\Config 
 folder. It is not necessary to use the ".profile" extension in the list of names. 
 
 Note that the order in which configuration profiles are listed in the 
